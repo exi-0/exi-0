@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary or intermediate image source files
+source-prepped.png
+source-photo.jpg
+source-photo.png
+*.jpg
+*.png
+
+# VS Code / OS configurations
+.vscode/
+.DS_Store
+Thumbs.db
